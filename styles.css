@@ -14,7 +14,7 @@ body {
   canvas {
     border: 6px solid #333; 
     background-color: #252424; 
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); 
   }
   @media only screen and (max-width: 400px) {
     canvas {

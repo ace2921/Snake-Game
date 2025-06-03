@@ -10,7 +10,16 @@ body {
     background-image: url(/images/images.jpeg);
     background-size: 100% 100%;
   }
-  
+  .score-board {
+    margin-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.score-board h2 {
+    margin: 5px;
+    font-size: 1.5em;
+}
   canvas {
     border: 6px solid #333; 
     background-color: #252424; 
